@@ -1,0 +1,13 @@
+target/
+data/
+*.db
+*.log
+.env
+.env.*
+!.env.example
+*.mv.db
+*.trace.db
+*.pem
+*.key
+.idea/
+.DS_Store
